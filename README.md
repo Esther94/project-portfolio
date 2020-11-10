@@ -1,4 +1,4 @@
-# project-portfolio
+# About 
 This is my first project, and it is about building a website and creating a portfolio
 
 ## 
@@ -19,7 +19,7 @@ This is my first project, and it is about building a website and creating a port
 * [Godwin Nwachukwu](https://github.com/Gnwin).
 
 * [Chioma James](https://github.com/Chiomy).
-*[vincent Obi]()
+* [vincent Obi]()
 
 # Acknowledgements
 * HomeFrontStartup
