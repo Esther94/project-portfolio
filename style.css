@@ -1,0 +1,302 @@
+*{
+    margin: 0;
+    border: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+.parent{
+    
+}
+
+.Dhead{
+    display: flex
+}
+
+.humfrontlogo{
+    width: 20%;
+    height: 50%;
+}
+
+.NavBar{
+    margin-left: 10%;
+}
+
+.hort{
+    padding-left: 20%;
+}
+
+.navli{
+    display: inline;
+    padding: 0px 25px;
+}
+
+.section1{
+    display: flex;
+    margin:2%;
+}
+
+.part1{
+    margin-left: 10%;
+}
+
+.HumfrontIntro{
+    max-width: 500px;
+    padding-bottom: 18%;
+}
+
+.hello{
+    padding-bottom:2% ;
+}
+
+.MyName{
+    padding-bottom: 8%;
+}
+
+.freelance{
+    max-width: 350px;
+    padding-bottom: 8%;
+}
+
+.Contact{
+    font-size: 12px;
+    padding: 10px;
+    background-color: rgba(15, 15, 209, 0.747);
+    border-radius:17px;
+    margin-bottom: 15px;
+    text-align: center;
+    color: white;
+    width: 20%;
+    margin-bottom: 20%;
+}
+
+ .part2{
+     height: 55vh;
+     width: 50vh;
+     background-image: url(asset/images/shot.png);
+     background-position: left;
+     background-size: cover;
+     margin-left: 17%;
+     box-shadow: -10px -10px +20px #888888;
+} 
+
+.Aboutme{
+    padding-left: 800px;
+    padding-bottom: 50px;
+}
+
+.section2{
+    display: flex;
+}
+
+.part3{
+   margin-left: 20%; 
+} 
+
+.star{
+    height: 40vh;
+     width: 45vh;
+     background-position: left;
+     box-shadow: -10px -10px +20px #888888;
+}
+     
+
+.part4{
+    max-width: 440px;
+    margin-right: 16%;
+    padding-left: 18%;
+    text-align: justify;
+    
+}
+
+.read{
+    margin-top: 5%;
+    font-size: 12px;
+    padding: 10px;
+    background-color: rgba(15, 15, 209, 0.747);
+    border-radius:17px;
+    margin-bottom: 15px;
+    text-align: center;
+    color: white;
+    width: 28%;
+    margin-bottom: 8%;
+}
+
+.expertise{
+    margin: 5%;
+    margin-left: 55%;
+}
+
+.section3{
+  display: flex;
+ 
+}
+
+.desktop,
+.frontend,
+.backend{
+  outline: honeydew;
+  padding:4% ;
+  box-shadow: 0px 2px 10px #888888;
+  border-color: honeydew;
+  margin-left: 6%;
+  margin-right: 6%;
+  text-align: justify;
+  margin-bottom: 8%;
+}
+
+.pic,
+.ux,
+.frontE,
+.backE{
+  margin-left: 30%;
+  padding: 5%;
+}
+
+.cont{
+  margin-bottom:3%;
+  text-align: center;
+}
+
+.section4{
+  width: 300px;
+  margin-left: 35%;
+}
+
+.formbox{
+  display: flex;
+  flex-direction: column;
+  /* margin-bottom: 26px; */
+  width: 380px;
+  height: 320px;
+  padding: 20px 20px;
+  border-radius: 10px;
+  background-color: white;
+  box-shadow:  1px +6px +25px #888888;
+  margin: 20px;
+}
+
+.feelfree{
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+.block{
+  margin-bottom: 46px;
+  background-color: white;
+  border-top-style: hidden;
+  border-right-style: hidden;
+  border-left-style: hidden;
+  border-bottom-style: groove;
+  border-left-width: 30px;
+}
+
+.mail{
+  margin-bottom: 46px;
+  background-color: white;
+  border-top-style: hidden;
+  border-right-style: hidden;
+  border-left-style: hidden;
+  border-bottom-style: groove;
+  padding-top: 15px;
+}
+
+.message{
+  margin-bottom: 46px;
+  background-color: white;
+  border-top-style: hidden;
+  border-right-style: hidden;
+  border-left-style: hidden;
+  border-bottom-style: groove;
+  padding-top: 20px;
+}
+
+.send{
+  font-size: 12px;
+  padding: 10px;
+  background-color: rgba(15, 15, 209, 0.747);
+  border-radius:17px;
+  margin-bottom: 15px;
+  text-align: center;
+  color: white;
+  width: 35%;
+  margin-bottom: 20%;
+  margin-left: 115px;
+}
+
+.section5{
+  display: flex;
+  display: inline;
+}
+
+.icons{
+  padding-left: 455px;
+}
+
+.icon1,
+.icon2,
+.icon3,
+.icon4,
+.icon5,
+.icon6,
+.icon7{
+  padding-top: 35px;
+  width: 50px;
+  height: 50px;
+  margin-right: 50px;
+}
+
+.letter{
+  font-size: 12px;
+  padding-left: 405px;
+}
+
+.text{
+  display: inline;
+}
+
+.text1,
+.text2,
+.text3,
+.text4,
+.text5,
+.text6,
+.text7{
+  margin-right: 1px;
+  margin-left: 55px;
+}
+
+.foota{
+  padding: 20px;
+  margin-top: 50px;
+  font-size: 14px;
+  color: white;
+  text-align: center;
+  background-color: rgba(15, 15, 209, 0.747);
+}
+
+.footanav{
+  display: flex;
+}
+
+.home{
+  margin-left: 550px;
+  padding-bottom: 25px;
+}
+
+.menu{
+  display: inline;
+  padding: 0px 20px;
+}
+
+.foliodesign{
+  border-top: 1px solid white;
+}
+
+
+
+
+
+
+
+
