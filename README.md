@@ -24,7 +24,8 @@ This is my first project, and it is about building a website and creating a port
 # Acknowledgements
 * HomeFrontStartup
 * http://homefrontstartup.com.ng/
-* Mentors International * https://mentorsint.com/  
+* Mentors International 
+* https://mentorsint.com/  
 * https://www.facebook.com/mentorshubyola/ 
 * https://twitter.com/hub_mic
 * https://www.linkedin.com/company/michub/
