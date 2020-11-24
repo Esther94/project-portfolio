@@ -3,7 +3,7 @@ This is my first project, and it is about building a website and creating a port
 
 ## 
 # Image
-![welcome interface.](./asset/images/myportfolio.png "This is the Homepage outlook")
+![welcome interface.](asset/images/myportfolio.png "This is the Homepage outlook")
 
 # Built With
 * HTML
